@@ -5,6 +5,12 @@ class PagesController < ApplicationController
   def service
   end
 
+  def methodology
+  end
+
+  def aboutus
+  end
+
   def clients
   end
 
