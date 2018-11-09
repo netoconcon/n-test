@@ -1,11 +1,11 @@
 .company-header{
-  color: #00b99b;
+  color: #080b22;
   margin-left: 50px;
 }
 
 .card-company-text{
   font-weight: normal;
-  margin: 10px 50px 10px 50px;
+  margin: 10px 150px 10px 122px;
   justify-text: center;
   text-align: justify;
   color: #1e2d50;
@@ -18,13 +18,14 @@
 .company-image {
   color: white;
   text-align: center;
-  height: calc(100vh - 70px);
-  /* if you have a 70px navbar => height: calc(100vh - 70px); */
+  height:75vh;
+  width: 136vh;
   background-size: cover !important;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: 32px;
+  margin-left: 120px;
+  margin-top: 30px;
 }
 
 
