@@ -3,7 +3,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 100px;
+  height: 70px;
   padding: 0px;
   color: #B0B0B0;
   position: relative;
@@ -26,6 +26,10 @@
 .footer p {
   position: absolute;
   margin-left: 80%;
+}
+
+.copyright {
+  margin: 20px;
 }
 
 
