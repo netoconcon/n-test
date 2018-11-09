@@ -1,0 +1,30 @@
+.company-header{
+  color: #00b99b;
+  margin-left: 50px;
+}
+
+.card-company-text{
+  font-weight: normal;
+  margin: 10px 50px 10px 50px;
+  justify-text: center;
+  text-align: justify;
+  color: #1e2d50;
+}
+
+.card-company-picture{
+  margin: 30px;
+}
+
+.company-image {
+  color: white;
+  text-align: center;
+  height: calc(100vh - 70px);
+  /* if you have a 70px navbar => height: calc(100vh - 70px); */
+  background-size: cover !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+
+

@@ -2,6 +2,9 @@ class PagesController < ApplicationController
   def home
   end
 
+  def northern
+  end
+
   def service
   end
 
