@@ -1,31 +1,43 @@
-.company-header{
+body {
+  background-color: rgb(215,215,215);
+}
+
+h1{
+  margin-left: 230px;
+  font-size: 30px;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-up: 10px;
+  font-weight: bold;
   color: #080b22;
-  margin-left: 50px;
 }
 
-.card-company-text{
-  font-weight: normal;
-  margin: 10px 150px 10px 122px;
-  justify-text: center;
+.head p{
+  margin-left: 100px;
+  margin-bottom: 20px;
+  color: 1e2d50;
+}
+
+#company-page-picture{
+  width: 450px;
+  margin-bottom: 20px;
+}
+
+.card-company-description{
+  color: 1e2d50;
+  margin-bottom: 10px;
+}
+
+.card-company-description p{
   text-align: justify;
-  color: #1e2d50;
+  margin-bottom: 10px;
 }
 
-.card-company-picture{
-  margin: 30px;
-}
-
-.company-image {
-  color: white;
+.company-picture{
   text-align: center;
-  height:75vh;
-  width: 136vh;
-  background-size: cover !important;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-left: 120px;
-  margin-top: 30px;
+  margin-bottom: 20px;
 }
+
+
 
 
