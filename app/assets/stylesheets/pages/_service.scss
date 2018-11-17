@@ -3,18 +3,20 @@
 //   height: 70vh;
 // }
 
-// .card {
-//   height: 50vh;
-//   text-shadow: 0 1px 3px rgba(0,0,0,0.6);
-//   background-size: cover !important;
-//   background-position: center;
-//   color: white;
-//   display: flex;
-//   align-items: center;
-//   text-align: center;
-//   justify-content: center;
-//   margin: 20px;
-// }
+.card-service {
+  height: 50vh;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.6);
+  background-size: cover !important;
+  background-position: center;
+  text-shadow: 5px;
+  color: white;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  border-radius: 3px;
+  margin: 20px;
+}
 
 // .card-description h2 {
 //   font-size: 40px;
