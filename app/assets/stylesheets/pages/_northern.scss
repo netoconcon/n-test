@@ -1,42 +1,36 @@
-body {
-  background-color: rgb(230,230,230);
+.container-company{
+  align-items: center;
 }
 
-// h1{
-//   margin-left: 230px;
-//   font-size: 30px;
-//   padding: 10px;
-//   margin-bottom: 10px;
-//   margin-up: 10px;
-//   font-weight: bold;
-//   color: #080b22;
-// }
+.company-title h1{
+  align-items: center;
+  font-size: 30px;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-up: 10px;
+  font-weight: bold;
+  color: #080b22;
+}
 
-// .head p{
-//   margin-left: 100px;
-//   margin-bottom: 20px;
-//   color: 1e2d50;
-// }
+.card-company-description{
+  margin-bottom: 10px;
+  p {
+    text-align: justify;
+    align-content: center;
+    margin-bottom: 20px;
+    color: #1E2D50;
+  }
+}
 
-// #company-page-picture{
-//   width: 450px;
-//   margin-bottom: 20px;
-// }
+#company-page-picture{
+  align-items: center;
+  width: 627px;
+  align-items: center;
+  margin-bottom: 20px;
+  // margin-left: 50px;
+}
 
-// .card-company-description{
-//   color: 1e2d50;
-//   margin-bottom: 10px;
-// }
 
-// .card-company-description p{
-//   text-align: justify;
-//   margin-bottom: 10px;
-// }
-
-// .company-picture{
-//   text-align: center;
-//   margin-bottom: 20px;
-// }
 
 
 
