@@ -1,16 +1,30 @@
+.container{
+  border: 2px solid green;
+}
+
+.sec-container{
+  border: 1px dotted red;
+}
+
 .startup-head{
   margin-top: 50px;
   margin-bottom: 50px;
+  border: 1px solid black;
 }
 
 .row-services{
   margin: 50px;
+  border: 1px solid red;
 }
 
 .text-container{
+  border: 1px dashed orange;
+  height: 500px;
 }
 
 .picture-container{
   margin-bottom: 30px;
   margin-left: 50px;
+  border: 1px dashed blue;
+  height: 500px;
 }
