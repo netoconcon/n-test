@@ -22,11 +22,20 @@
   }
 }
 
-#company-page-picture{
+
+// #company-page-picture{
+//   align-items: center !important;
+//   margin-bottom: 20px;
+// }
+
+.company-page-picture {
+  text-align: center;
+  height: 60vh;
+  /* if you have a 70px navbar => height: calc(100vh - 70px); */
+  background-size: cover !important;
   align-items: center;
-  // width: 627px;
-  height: 78vh;
-  align-items: center;
+  justify-content: center;
+  text-shadow: 1px;
   margin-bottom: 20px;
 }
 
