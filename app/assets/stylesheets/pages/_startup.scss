@@ -9,18 +9,28 @@
 .startup-head{
   margin-top: 50px;
   margin-bottom: 50px;
-  // border: 1px solid black;
+  p{
+    color: #1E2D50;
+  }
 }
 
 .row-services{
-  margin: 50px;
-  // border: 1px solid red;
+  margin: 30px;
 }
 
 .text-container{
   // border: 1px dashed orange;
-  height: 500px;
-  margin: 40px;
+    height: 500px;
+    margin-left: 20px;
+    color: #080b22;
+    text-justify: justify;
+  h3{
+    font-weight: bold;
+  }
+  p{
+    margin-bottom: 20px;
+    color: #1E2D50;
+  }
 }
 
 .picture-container{
@@ -28,4 +38,23 @@
   margin-left: 50px;
   // border: 1px dashed blue;
   height: 500px;
+}
+
+.startup-head{
+  color: #080b22;
+  h2{
+  align-items: center;
+  font-size: 30px;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  margin-up: 10px;
+  font-weight: bold;
+  font-size: 35px;
+  }
+  p{
+    font-weight: light;
+    margin-left: 30px;
+    margin-right: 15px;
+  }
 }
