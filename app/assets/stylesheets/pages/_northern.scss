@@ -23,21 +23,14 @@
 }
 
 
-// #company-page-picture{
-//   align-items: center !important;
-//   margin-bottom: 20px;
-// }
-
-.company-page-picture {
-  text-align: center;
-  height: 60vh;
-  /* if you have a 70px navbar => height: calc(100vh - 70px); */
-  background-size: cover !important;
-  align-items: center;
-  justify-content: center;
-  text-shadow: 1px;
+.company-page-picture{
   margin-bottom: 20px;
+  background-size: cover !important;
+  background-position: center;
+  height: 70vh;
 }
+
+
 
 
 
